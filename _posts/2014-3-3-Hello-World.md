@@ -1,10 +1,12 @@
 ---
 layout: post
-title: You're up and running!
+title: Hello World!
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+Entry 1 (10/04/2018)
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
-
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+We started preparing for the requirements gathering phase of the project. The main 2 techniques we've 
+decided on are interviews and questionnaires. The process of designing the questionnaires and
+the interviews went smoothly, where everyone came to decisions in the wording of them fairly 
+quickly. I think as long as we get the formalities of the requirements gathering done, it 
+should be easier to get the project started.
